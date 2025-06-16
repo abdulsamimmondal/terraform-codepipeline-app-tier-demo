@@ -7,3 +7,6 @@ export NVM_DIR="/home/ec2-user/.nvm"
 cd ~/app-tier
 pm2 start index.js
 pm2 save
+
+
+
